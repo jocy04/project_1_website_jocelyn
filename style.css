@@ -1,1 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tamma');
 
+h1{
+  font-family: 'Baloo Tamma', cursive;
+}
+div {
+ background-color: aqua;
+ padding: 50px;
+ color: black;
+ font-family:  'Baloo Tamma', cursive;
+ width: 500px;
+ border: 3px white dashed;
+ margin: 10px;
+}
